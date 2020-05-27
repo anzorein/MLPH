@@ -9,7 +9,7 @@
 
 En primer lugar se guardan el nombre y el link del producto que queremos seguir en el archivo de texto "links.txt" de la siguiente forma:
 
-![](https://i.imgur.com/3apLMjC.png)[]
+![](https://i.imgur.com/3apLMjC.png)
 
 name = AMD Threadripper 3960x  
 https://articulo.mercadolibre.com.ar/MLA-844499248-micro-procesador-amd-threadripper-3960x-strx4-2-_JM?quantity=1
@@ -21,15 +21,15 @@ Luego podemos ejecutar el script de python "MLPH.py" desde la ventana de comando
 
 En el directorio donde nos encontramos, hacemos click en la ruta de la carpeta.
 
-![](https://i.imgur.com/LzIPvRj.png)[]
+![](https://i.imgur.com/LzIPvRj.png)
 
 Luego borramos esa ruta y escribimos "cmd" para ejecutar la ventana de comandos desde el directorio donde nos encontramos actualmente.
 
-![](https://i.imgur.com/Xcf3sbk.png)[]
+![](https://i.imgur.com/Xcf3sbk.png)
 
 A continuación escribimos "python scraper.py" y luego de unos segundos debería aparecer un archivo llamado "MLPH.csv".
 
-![](https://i.imgur.com/ifujtNx.png)[]
+![](https://i.imgur.com/ifujtNx.png)
 
 Finalmente podemos abrir este archivo con Excel para verificar que el script se ha ejecutado correctamente.
 
@@ -41,4 +41,4 @@ Para esto apretamos el inicio de windows y escribimos "Programador de Tareas" (o
 
 Por último, si no queremos que cuando se ejecute aparezca una ventana de comando, hacemos doble click sobre la tarea y seleccionamos las opciones "Ejecutar tanto si el usuario inició sesión como si no" y "No almacenar contraseña.".
 
-![](https://i.imgur.com/1VjgKa3.png)[]
+![](https://i.imgur.com/1VjgKa3.png)
