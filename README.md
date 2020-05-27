@@ -42,3 +42,7 @@ Para esto apretamos el inicio de windows y escribimos "Programador de Tareas" (o
 Por último, si no queremos que cuando se ejecute aparezca una ventana de comando, hacemos doble click sobre la tarea y seleccionamos las opciones "Ejecutar tanto si el usuario inició sesión como si no" y "No almacenar contraseña.".
 
 ![](https://i.imgur.com/1VjgKa3.png)
+
+## TODO
+
+- Añadir el nombre de un producto a la primera fila de un archivo CSV existente luego de añadirse al archivo links.txt
