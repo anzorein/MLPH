@@ -2,8 +2,8 @@
 
 ## Requerimientos
 
-Python 3.8.x (https://www.python.org/downloads/)
-Archivo de texto "links.txt"
+- Python 3.8.x (https://www.python.org/downloads)
+- Archivo de texto "links.txt"
 
 ## Funcionamiento
 
