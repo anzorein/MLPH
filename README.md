@@ -29,7 +29,7 @@ Luego borramos esa ruta y escribimos "cmd" para ejecutar la ventana de comandos 
 
 A continuación escribimos "python scraper.py" y luego de unos segundos debería aparecer un archivo llamado "MLPH.csv".
 
-![](https://i.imgur.com/OsELAFt.png)[]
+![](https://i.imgur.com/ifujtNx.png)[]
 
 Finalmente podemos abrir este archivo con Excel para verificar que el script se ha ejecutado correctamente.
 
