@@ -18,11 +18,11 @@ Luego podemos ejecutar el script de python "MLPH.py" desde la ventana de comando
 
 En el directorio donde nos encontramos, hacemos click en la ruta de la carpeta.
 
-![https://i.imgur.com/LzIPvRj.png]
+![](https://i.imgur.com/LzIPvRj.png)[]
 
 Luego borramos esa ruta y escribimos "cmd" para ejecutar la ventana de comandos desde el directorio donde nos encontramos actualmente.
 
-![https://i.imgur.com/Xcf3sbk.png]
+![])https://i.imgur.com/Xcf3sbk.png=[]
 
 A continuación escribimos "python scraper.py" y luego de unos segundos debería aparecer un archivo llamado "MLPH.csv".
 
