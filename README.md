@@ -1,11 +1,11 @@
-**MLPH - Mercadolibre Price History**
+# MLPH - Mercadolibre Price History
 
-**Requerimientos**
+## Requerimientos
 
 Python 3.8.x (https://www.python.org/downloads/)
 Archivo de texto "links.txt"
 
-**Funcionamiento**
+## Funcionamiento
 
 En primer lugar se guardan el nombre y el link del producto que queremos seguir en el archivo de texto "links.txt" de la siguiente forma:
 
@@ -22,7 +22,7 @@ En el directorio donde nos encontramos, hacemos click en la ruta de la carpeta.
 
 Luego borramos esa ruta y escribimos "cmd" para ejecutar la ventana de comandos desde el directorio donde nos encontramos actualmente.
 
-![])https://i.imgur.com/Xcf3sbk.png=[]
+![](https://i.imgur.com/Xcf3sbk.png)[]
 
 A continuación escribimos "python scraper.py" y luego de unos segundos debería aparecer un archivo llamado "MLPH.csv".
 
