@@ -9,7 +9,7 @@
 
 En primer lugar se guardan el nombre y el link del producto que queremos seguir en el archivo de texto "links.txt" de la siguiente forma:
 
-name = AMD Threadripper 3960x
+name = AMD Threadripper 3960x  
 https://articulo.mercadolibre.com.ar/MLA-844499248-micro-procesador-amd-threadripper-3960x-strx4-2-_JM?quantity=1
 
 Es importante que "name = NombreProducto" tenga el espacio luego del "=". Además el URL debe ser https.
