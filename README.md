@@ -27,7 +27,7 @@ Luego borramos esa ruta y escribimos "cmd" para ejecutar la ventana de comandos 
 
 ![](https://i.imgur.com/Xcf3sbk.png)
 
-A continuación escribimos "python scraper.py" y luego de unos segundos debería aparecer un archivo llamado "MLPH.csv".
+A continuación escribimos "python scraper.py" y luego de unos segundos debería aparecer un archivo llamado "price-history.csv".
 
 ![](https://i.imgur.com/ifujtNx.png)
 
