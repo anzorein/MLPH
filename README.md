@@ -1,5 +1,7 @@
 # MLPH - Mercadolibre Price History
 
+Este programa crea un archivo csv que puede leerse con excel, donde se guardan los precios de productos cargados en el archivo links.txt cada vez que se ejecuta.
+
 ## Requerimientos
 
 - Python 3.8.x (https://www.python.org/downloads)
